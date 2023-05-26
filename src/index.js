@@ -1,5 +1,6 @@
+import express from "express";
 // Add Express
-const express = require("express");
+//const express = require("express");
 // Initialize Express
 const app = express();
 // Create GET request
@@ -12,4 +13,5 @@ app.listen(5000, () => {
 });
 
 // Export the Express API
-module.exports = app;
+//module.exports = app;
+export default app;
