@@ -1,0 +1,23 @@
+{
+  "name": "prueba-vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnibalSchiaves/prueba-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnibalSchiaves/prueba-vercel/issues"
+  },
+  "homepage": "https://github.com/AnibalSchiaves/prueba-vercel#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
